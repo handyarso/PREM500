@@ -2,3 +2,5 @@
 Belajar menggunakan GitHub
 
 ![Koefisien hasil luaran](https://github.com/handyarso/PREM500/blob/main/ScreenShot.png)
+
+![Hasil dengan notasi](https://github.com/handyarso/PREM500/blob/main/Hasil.png)
